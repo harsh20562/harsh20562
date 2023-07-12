@@ -2,7 +2,7 @@
 
 
 <!--
-**Sourav20341/Sourav20341** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**harsh20562/harsh20562** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Sourav Goyal
+# Harsh Goyal
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Connect with me :
 
-<img align='right' src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Sourav20341&show_icons=true&&theme=flag-India&locale=en&layout=compact&hide=lua&langs_count=10" alt="languages">
+<img align='right' src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=harsh20562&show_icons=true&&theme=flag-India&locale=en&layout=compact&hide=lua&langs_count=10" alt="languages">
 
 <div align="left">
-  <a href="mailto:sourav20341@iiitd.ac.in" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's E-mail Address" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white& PAT_1" /> </a>
+  <a href="mailto:harsh20562@iiitd.ac.in" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's E-mail Address" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white& PAT_1" /> </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/sourav-goyal-753a66231/" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
   &nbsp;
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-<img align='right' src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sourav20341&show_icons=true&count_private=true&include_all_commits=true&theme=flag-india">
+<img align='right' src="https://github-readme-stats-sigma-five.vercel.app/api?username=harsh20562&show_icons=true&count_private=true&include_all_commits=true&theme=flag-india">
 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
